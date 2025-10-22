@@ -13,11 +13,21 @@ h1 {
     background-color:white;
     font-size: 60px;
     text-align: center;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    width:800px;
+    margin-left: 400px;
+
+    
+
    
 
 }
 .square {
-    margin: 1em;
+    margin: 0.5em;
+    
+
+    
     
     
 }
@@ -40,5 +50,6 @@ h1 {
 #s9:active::after {
     content:"👻"
 }
-}
+
+
 
